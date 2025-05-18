@@ -1,0 +1,7 @@
+numpy 
+pandas 
+scikit-fuzzy 
+scikit-learn
+packaging
+matplotlib
+packaging
