@@ -4,4 +4,3 @@ scikit-fuzzy
 scikit-learn
 packaging
 matplotlib
-packaging
